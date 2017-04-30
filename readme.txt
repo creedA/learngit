@@ -4,4 +4,4 @@ Third revision.
 Fourth edition.
 fifth edition.
 dev branch first edition.
-master branch sixth edition.
+after branchs confict, first edit in order to merge commit.

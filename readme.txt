@@ -5,3 +5,5 @@ Fourth edition.
 fifth edition.
 dev branch first edition.
 after branchs confict, first edit in order to merge commit.
+dev branch, first edition. 
+dev branch, first edition, second line.
